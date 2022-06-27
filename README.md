@@ -51,6 +51,9 @@
 - [Dimensions](https://www.dimensions.com/)
 - [Game Design Documents](https://gamedocs.org/documents/)
 
+- [Milanote](https://milanote.com/)
+
+
 
 
 ### 7. Game Design - References
