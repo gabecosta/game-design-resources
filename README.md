@@ -46,14 +46,11 @@
 
 - [Huds & Gui's](https://www.hudsandguis.com/)
 
-### 6. Game Designs
+### 6. Game Designs - Tools
 
 - [Dimensions](https://www.dimensions.com/)
 - [Game Design Documents](https://gamedocs.org/documents/)
-
 - [Milanote](https://milanote.com/)
-
-
 
 
 ### 7. Game Design - References
